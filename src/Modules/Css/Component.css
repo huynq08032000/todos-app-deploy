@@ -1,0 +1,26 @@
+.header-title {
+    padding-top: 20px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+}
+.input-wrapper{
+    margin: 10px;
+    max-width: 650px;
+}
+
+.btn-submit-form {
+    margin: 10px;
+}
+.ant-tabs-tab-btn {
+    font-size : 20px;
+    font-weight: 500;
+}
+
+.ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn{
+    color : red !important;
+}
+
+.ant-tabs-ink-bar {
+    background: red !important;
+}
