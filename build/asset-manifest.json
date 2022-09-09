@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todos-app-deploy/static/css/main.90ded12c.css",
+    "main.js": "/todos-app-deploy/static/js/main.a6806b26.js",
+    "static/js/787.e220566b.chunk.js": "/todos-app-deploy/static/js/787.e220566b.chunk.js",
+    "index.html": "/todos-app-deploy/index.html",
+    "main.90ded12c.css.map": "/todos-app-deploy/static/css/main.90ded12c.css.map",
+    "main.a6806b26.js.map": "/todos-app-deploy/static/js/main.a6806b26.js.map",
+    "787.e220566b.chunk.js.map": "/todos-app-deploy/static/js/787.e220566b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90ded12c.css",
+    "static/js/main.a6806b26.js"
+  ]
+}
